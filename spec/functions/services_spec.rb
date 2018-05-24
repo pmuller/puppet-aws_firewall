@@ -9,6 +9,8 @@ describe 'aws_firewall::services' do
     EC2
     ROUTE53_HEALTHCHECKS
     S3
+    CLOUD9
+    AMAZON_CONNECT
   ]
 
   it do
